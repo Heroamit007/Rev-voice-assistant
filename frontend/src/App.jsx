@@ -113,7 +113,7 @@ function App() {
 
   return (
     <div style={{ padding: 20, maxWidth: 720 }}>
-      <h1>🎙 Gemini Voice Assistant</h1>
+      <h1>🎙 Rev Voice Assistant</h1>
       <button onClick={toggleRecording}>
         {isActive ? "⏹ Stop" : "🎤 Start"}
       </button>
